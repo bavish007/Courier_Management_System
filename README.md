@@ -52,17 +52,6 @@ CMS_JAVA-main/
 
 > Ensure all `.class` files are in the same directory as the `.java` files.
 
-## 📸 Screenshots
-
-_Add GUI screenshots here if available._
-
-## 📌 Future Improvements
-
-- Integrate with a database (e.g., MySQL) for persistent storage.
-- Add login functionality for staff and admins.
-- Generate reports for deliveries and revenue.
-- Add search and filter features.
-
 ## 🙋‍♂️ Author
 
 Developed by [bavish007](https://github.com/bavish007)
